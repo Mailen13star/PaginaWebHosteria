@@ -8,7 +8,6 @@
         <link rel="stylesheet" href="css/estilos1.css">
     </head>
     <body> 
-        
             <header>
                 <!-- es el encabezado -->
                 <section id="logo">
@@ -26,11 +25,7 @@
                 <ul>
                     <!-- SOLO LOS ENLACES SALEN SUBRAYADOS -->
                      <br>
-                     <li><a href="#">Inicio</a>
-                    <li><a href="#">¿Cómo llegar?</a></li>
-                    <li><a href="#">Habitaciones</a></li>
-                    <li><a href="#">Iniciar Sesión</a></li> 
-                    <img src="img/ingreso.png" alt="">
+                        <li><a href="#">Reservas</a></li>
                 </ul>
                 
             </nav>
@@ -39,8 +34,7 @@
                 <div class ="contenedor_imagen">
                     <img src="img/fondo1.jpg" alt="" width="1000"height="700" > <br>
                     <br><br><br><br><br>
-                    <h1>¡Bienvenidos a Hosteria Payogasta!</h1><br>
-                    <p>Donde cada momento se convierte en un recuerdo inolvidable</p>
+                    <h1>Habitaciones</h1><br>
                 </div>  
 
             </main>

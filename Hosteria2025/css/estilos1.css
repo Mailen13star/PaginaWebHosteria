@@ -34,16 +34,11 @@ header{
     float:right;
 }
 #titulo h1{
-    color: black;
+    color: #000000;
     font-size: 50px;
-    text-align: center;
+    text-align:justify;
 }
-#Clima{
-    height: 150px; 
-    width: 334px;    
-    background-color: rgb(255, 255, 255);
-    float: right;
-}
+s
 nav{
     height: 80px;
     width: 1000px;
